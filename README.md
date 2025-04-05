@@ -89,11 +89,7 @@ Failed to create output directory.
 
 **Sachin Dayal**  
 💻 Passionate about DevOps, Automation, and Linux scripting  
-🧠 #ShellScripting #DevOps #Linux #LearningByDoing
 
 ---
 
 📚 This project is part of the `log-archive-tool` from [roadmap.sh](https://roadmap.sh/projects/log-archive-tool) DevOps Projects.
-
-```
-
