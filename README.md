@@ -1,5 +1,3 @@
-Absolutely Sachin! Here's the **complete `README.md` script** you can copy-paste directly into your project folder:
-
 ---
 
 ### ✅ `README.md` — Copy This Whole Thing
@@ -84,11 +82,8 @@ log_backups/logs_20250405_143025.tar.gz
 ## 👨‍💻 Author
 
 **Sachin Dayal**  
-Co-Founder & CTO at Kalki | LinuxWorld Summer Intern  
-💻 Passionate about DevOps, Automation, and Security  
-🧠 #LearningByDoing #ShellScripting #Linux #DevOps #Automation
+💻 Passionate about DevOps, Automation, and Security 
 
 ---
-```
 
-Let me know if you want to add badges, license, or make this into a GitHub-ready README with markdown emojis and styling. Let's make it 💯!
+This is a part of **[roadmap.sh](https://roadmap.sh/projects/log-archive-tool)** Devops Project.
