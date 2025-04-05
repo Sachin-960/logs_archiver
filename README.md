@@ -1,8 +1,7 @@
 
----
 
-```markdown
-# 🗂️ Logs Archiver Script
+
+### 🗂️ Logs Archiver Script
 
 This 🐧 Bash script compresses a given log directory into a `.tar.gz` archive and stores the archive in a **hardcoded output directory** named `log_backups`. The output directory is automatically created if it doesn't exist.
 
