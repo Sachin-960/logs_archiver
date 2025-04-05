@@ -1,6 +1,5 @@
 ---
 
-### ✅ `README.md` — Copy This Whole Thing
 
 ```markdown
 # 🗂️ Logs Archiver Script
